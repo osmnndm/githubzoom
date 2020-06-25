@@ -32,10 +32,10 @@ public class Toplama {
 		
 				Scanner scan = new Scanner (System.in);
 			    int num5 = scan.nextInt();
-			    int num6 = scan.nextInt();
+			    int num7 = scan.nextInt();
 			    
 			   
-			    System.out.println(num5*num6);
+			    System.out.println(num5*num7);
 
 			    scan.close();
 		
