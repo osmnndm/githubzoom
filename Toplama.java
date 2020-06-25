@@ -28,6 +28,17 @@ public class Toplama {
 
 			    scan.close();
 		
+		// CARPMA
+		
+				Scanner scan = new Scanner (System.in);
+			    int num5 = scan.nextInt();
+			    int num6 = scan.nextInt();
+			    
+			   
+			    System.out.println(num5*num6);
+
+			    scan.close();
+		
 		
 	}
 
