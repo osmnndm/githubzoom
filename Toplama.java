@@ -38,7 +38,8 @@ public class Toplama {
 			   
 			    System.out.println(num5*num7);
 
-			
+			    System.out.println("Merhaba");
+				System.out.println("Dünya");
 			    
 			   
 			   
